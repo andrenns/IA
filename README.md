@@ -1,1 +1,1 @@
-The beginning of them all
+Project for the Artificial Intelligence course
